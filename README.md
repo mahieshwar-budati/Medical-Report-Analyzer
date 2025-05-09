@@ -1,1 +1,1 @@
-# Medical-Report-Analyzer
+# mediscan_ai
